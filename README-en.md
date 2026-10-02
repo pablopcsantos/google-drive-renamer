@@ -2,7 +2,7 @@
 
 ---
 
-# Super File Renamer
+# Super File Renamer (Google Drive)
 
 Automation script for Google Apps Script that allows you to clean, replace text, remove specific intervals, and add prefixes or suffixes to file names within a Google Drive folder.
 
