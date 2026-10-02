@@ -2,7 +2,7 @@
 
 ---
 
-# Super Renomeador de Arquivos
+# Super Renomeador de Arquivos (Google Drive)
 
 Script de automação para Google Apps Script que permite limpar, substituir textos, remover intervalos exatos e adicionar prefixos ou sufixos aos nomes de arquivos contidos em uma pasta do Google Drive.
 
